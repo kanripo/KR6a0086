@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 泥犁經
+#+DATE: 2015-08-30 19:30:31.064158
+#+PROPERTY: JUAN 0
